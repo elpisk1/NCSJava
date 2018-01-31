@@ -1,6 +1,6 @@
-# NCS  Java
-NCS 자바 과정
-Including java code with version management system! 
+﻿# NCS  Java  NCS 자바 과정
+
+Use the links above to find what you’re looking for, or try a new search query. The Filters menu is also super helpful for quickly finding issues most relevant to you.
 
 
 We heard that you lost your GitHub password. Sorry about that!
