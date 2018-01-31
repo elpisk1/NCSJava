@@ -1,2 +1,3 @@
-# NCSJava
-NCS 자바 과정반
+# NCS  Java
+NCS 자바 과정
+Including java code with version management system! 
